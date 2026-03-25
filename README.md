@@ -1,7 +1,7 @@
 
 <div align="center">
 
-## Multimodal Tactile Sensing and Fusion: A Survey of Vision, Language, and Contact-Driven Paradigms
+## Tactile-based Multimodal Fusion in Embodied Intelligence: A Survey of Vision, Language, and Contact-Driven Paradigms
 
 [![arXiv](https://img.shields.io/badge/arXiv-TBD-b31b1b.svg)]()
 <img alt="License" src="https://img.shields.io/badge/License-CC%20BY%204.0-blue">
@@ -9,7 +9,10 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Wayne-coding/Multimodal-Tactile-Sensing-and-Fusion&label=visitors&countColor=%23263759&style=flat)
 <a href="https://github.com/Wayne-coding/Multimodal-Tactile-Sensing-and-Fusion/issues"><img src="https://img.shields.io/github/issues/Wayne-coding/Multimodal-Tactile-Sensing-and-Fusion" alt="Issues Badge"/></a>
 
-Zhixiang Cao<sup>1, 2</sup>, Di Tian<sup>1</sup>, Yanzhou Mu<sup>4</sup>, Xiaolou Sun<sup>5</sup>, Shaofeng Liang<sup>6</sup>, Daizong Liu<sup>7</sup>, Runwei Guan<sup>1*</sup>, Tao Huang<sup>8</sup>, Bin Fang<sup>9</sup>, Henghui Ding<sup>10</sup>, Alex Zhou<sup>11</sup>, and Hui Xiong<sup>1*</sup>
+Zhixiang Cao<sup>1, 2</sup>, Di Tian<sup>1</sup>, Yanzhou Mu<sup>4</sup>, Xiaolou Sun<sup>5</sup>, Shaofeng Liang<sup>6</sup>, Daizong Liu<sup>7</sup>, Runwei Guan<sup>1*</sup>, Tao Huang<sup>8</sup>, Yutao Yue<sup>1</sup>, Henghui Ding<sup>10</sup>, Bin Fang<sup>9</sup>, Alex Zhou<sup>11</sup>, Qing-Long Han<sup>11</sup>, *Fellow, IEEE*, and Hui Xiong<sup>1*</sup>, *Fellow, IEEE*,
+
+
+
 
 </div>
 
@@ -24,6 +27,7 @@ Zhixiang Cao<sup>1, 2</sup>, Di Tian<sup>1</sup>, Yanzhou Mu<sup>4</sup>, Xiaolo
 8. School of Artificial Intelligence, Beijing University of Posts and Telecommunications, China
 9. Institute of Big Data, Fudan University, China
 10. Linkerbot (Beijing) Technology Co., Ltd, China
+11. School of Engineering, Swinburne University of Technology, Melbourne.
 
 <sup>*</sup> Corresponding authors: `runwayrwguan@hkust-gz.edu.cn`, `xionghui@hkust-gz.edu.cn`
 
@@ -377,6 +381,10 @@ Organized by major taxonomy categories and chronological order, the figure highl
 
 * **DexTac**: "Dextac: Learning contact-aware visuotactile policies via hand-by-hand teaching", *2026* [[Paper](https://arxiv.org/pdf/2601.21474)]
 
+* **OmniVTA**: "OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation", *2026* [[Paper](https://arxiv.org/pdf/2603.19201)][[Code](https://github.com/MrSecant/OmniVTA)] ![Github stars](https://img.shields.io/github/stars/MrSecant/OmniVTA.svg)
+
+* **VTAM**: "VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs, *2026* [[Paper](https://arxiv.org/abs/2603.23481)]
+
 #### Multimodal Manipulation under Language Instructions
 
 * **VTLG**: "Vtlg: A vision-tactile-language grasp generation method oriented towards task", *2025* [[Paper](https://www.sciencedirect.com/science/article/pii/S0736584525002066)]
@@ -385,13 +393,62 @@ Organized by major taxonomy categories and chronological order, the figure highl
 
 ### Wearable Tactile Systems
 
+*  "A glove-based system for object recognition via visual-tactile fusion", *2019* [[Paper](http://scis.scichina.com/en/2019/050203.pdf)]
+ 
+* "Osmo: Open-source tactile glove for human-to-robot skill transfer", *2025* [[Paper](https://arxiv.org/abs/2512.08920)]
+ 
+* "Freetacman: Robot-free visuo-tactile data collection system for contact-rich manipulation", *2025* [[Paper](https://arxiv.org/abs/2506.01941)]
 
 ### Handheld and Fingertip Sensors
 
+* "A novel multi-modal tactile sensor design using thermochromic material", *2019* [[Paper](http://scis.scichina.com/en/2019/214201.pdf)]
+
+* "A Compact Visuo-Tactile Robotic Skin for Micron-Level Tactile Perception", *2024* [[Paper](https://ieeexplore.ieee.org/abstract/document/10474279)]
+ 
+*  "LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing", *2025* [[Paper](https://arxiv.org/abs/2512.20591)]
+
+* "Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation", *2025* [[Paper](https://ieeexplore.ieee.org/abstract/document/11425767)]
+
+* "MagicGel: A Novel Visual-Based Tactile Sensor Design with Magnetic Gel", *2025* [[Paper](https://ieeexplore.ieee.org/abstract/document/11246423)]
+ 
+* "A braille detection system based on visuo-tactile sensing", *2025* [[Paper](https://www.sciencedirect.com/science/article/pii/S0263224125001861)]
+ 
+* "Touch in the wild: Learning fine-grained manipulation with a portable visuo-tactile gripper", *2025* [[Paper](https://arxiv.org/abs/2507.15062)]
+
+* "In-the-Wild Compliant Manipulation with UMI-FT", *2026* [[Paper](https://arxiv.org/abs/2601.09988)]
 
 ### Robotic Skin and Sensor Patches
 
+*  "Multimodal tactile sensing fused with vision for dexterous robotic housekeeping", *2024* [[Paper](https://www.nature.com/articles/s41467-024-51261-5)]
+ 
+* "A Large-area Tactile Sensor for Distributed Force Sensing Using Highly Sensitive Piezoresistive Sponge", *2024* [[Paper](https://ieeexplore.ieee.org/abstract/document/10610739)]
+ 
+* "Biomimetic hydrogel-based sensors with dual-mode dynamic-static tactile sensing capability enabling robotic hand for intelligent material property recognition", *2025* [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/inf2.70041)]
 
+* "A Large-Area Robotic Skin for Intelligent Tactile Interaction of Collaborative Robots", *2025* [[Paper](https://ieeexplore.ieee.org/abstract/document/10836225)]
+
+* "A Biomimetic Ionic Hydrogel Synapse for Self-Powered Tactile-Visual Fusion Perception", *2025* [[Paper](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202500048)]
+ 
+* "Pollen-Biochar-Based Tactile-Pain Dual-Function Sensors for Intelligent Robotics", *2025* [[Paper](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202522727)]
+ 
+* "Biomimetic multimodal tactile sensing enables human-like robotic perception", *2026* [[Paper](https://www.nature.com/articles/s44460-025-00006-y)]
+ 
 ### Gripper-Mounted and Integrated Sensors
 
+* "Multimodal tactile sensing fused with vision for dexterous robotic housekeeping", *2024* [[Paper](https://www.nature.com/articles/s41467-024-51261-5)]
 
+* "A Compact Visuo-Tactile Robotic Skin for Micron-Level Tactile Perception", *2024* [[Paper](https://ieeexplore.ieee.org/abstract/document/10474279)]
+
+* "Touch in the wild: Learning fine-grained manipulation with a portable visuo-tactile gripper", *2025* [[Paper](https://arxiv.org/abs/2507.15062)]
+ 
+* "LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing", *2025* [[Paper](https://arxiv.org/abs/2512.20591)]
+ 
+* "Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation", *2025* [[Paper](https://ieeexplore.ieee.org/abstract/document/11425767)]
+ 
+* "TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks", *2026* [[Paper](https://arxiv.org/abs/2601.14550)]
+ 
+## Citation
+Thank you for your interest! If you find our work helpful, please consider citing us with:
+```bibtex
+xx
+```
