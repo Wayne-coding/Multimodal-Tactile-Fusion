@@ -9,7 +9,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Wayne-coding/Multimodal-Tactile-Sensing-and-Fusion&label=visitors&countColor=%23263759&style=flat)
 <a href="https://github.com/Wayne-coding/Multimodal-Tactile-Sensing-and-Fusion/issues"><img src="https://img.shields.io/github/issues/Wayne-coding/Multimodal-Tactile-Sensing-and-Fusion" alt="Issues Badge"/></a>
 
-Zhixiang Cao<sup>1, 2</sup>, Di Tian<sup>1</sup>, Yanzhou Mu<sup>4</sup>, Xiaolou Sun<sup>5</sup>, Shaofeng Liang<sup>6</sup>, Daizong Liu<sup>7</sup>, Runwei Guan<sup>1*</sup>, Tao Huang<sup>8</sup>, Yutao Yue<sup>1</sup>, Henghui Ding<sup>10</sup>, Bin Fang<sup>9</sup>, Alex Zhou<sup>11</sup>, Qing-Long Han<sup>11</sup>, *Fellow, IEEE*, and Hui Xiong<sup>1*</sup>, *Fellow, IEEE*,
+Zhixiang Cao<sup>1, 2</sup>, Di Tian<sup>1</sup>, Yanzhou Mu<sup>4</sup>, Xiaolou Sun<sup>5</sup>, Shaofeng Liang<sup>6</sup>, Daizong Liu<sup>7</sup>, Runwei Guan<sup>1*</sup>, Tao Huang<sup>8</sup>, Yutao Yue<sup>1</sup>, Henghui Ding<sup>10</sup>, Bin Fang<sup>9</sup>, Alex Zhou<sup>10</sup>, Qing-Long Han<sup>11</sup>, *Fellow, IEEE*, and Hui Xiong<sup>1*</sup>, *Fellow, IEEE*,
 
 
 
