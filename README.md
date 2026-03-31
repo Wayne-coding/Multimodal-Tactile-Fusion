@@ -9,7 +9,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Wayne-coding/Multimodal-Tactile-Sensing-and-Fusion&label=visitors&countColor=%23263759&style=flat)
 <a href="https://github.com/Wayne-coding/Multimodal-Tactile-Sensing-and-Fusion/issues"><img src="https://img.shields.io/github/issues/Wayne-coding/Multimodal-Tactile-Sensing-and-Fusion" alt="Issues Badge"/></a>
 
-Zhixiang Cao<sup>1, 2</sup>, Di Tian<sup>1</sup>, Yanzhou Mu<sup>4</sup>, Xiaolou Sun<sup>5</sup>, Shaofeng Liang<sup>6</sup>, Daizong Liu<sup>7</sup>, Runwei Guan<sup>1*</sup>, Tao Huang<sup>8</sup>, Yutao Yue<sup>1</sup>, Henghui Ding<sup>10</sup>, Bin Fang<sup>9</sup>, Alex Zhou<sup>10</sup>, Qing-Long Han<sup>11</sup>, *Fellow, IEEE*, and Hui Xiong<sup>1*</sup>, *Fellow, IEEE*,
+Zhixiang Cao<sup>1, 2</sup>, Di Tian<sup>1</sup>, Runwei Guan<sup>1*</sup>, Yanzhou Mu<sup>3</sup>, Xiaolou Sun<sup>4</sup>, Shaofeng Liang<sup>1</sup>, Daizong Liu<sup>5</sup>, Yutao Yue<sup>1</sup>, Henghui Ding<sup>7</sup>, Bin Fang<sup>6</sup>, Alex Zhou<sup>8</sup>, and Hui Xiong<sup>1*</sup>, *Fellow, IEEE*,
 
 
 
@@ -21,13 +21,11 @@ Zhixiang Cao<sup>1, 2</sup>, Di Tian<sup>1</sup>, Yanzhou Mu<sup>4</sup>, Xiaolo
 
 3. State Key Laboratory for Novel Software Technology, Nanjing University, China
 4. Purple Mountain Laboratory, China
-5. College of Computer Science and Technology, China University of Petroleum (East China), China
-6. Institute for Math & AI, Wuhan University, China
-7. Centre for AI and Data Science Innovation and School of Science and Engineering, James Cook University, Australia
-8. School of Artificial Intelligence, Beijing University of Posts and Telecommunications, China
-9. Institute of Big Data, Fudan University, China
-10. Linkerbot (Beijing) Technology Co., Ltd, China
-11. School of Engineering, Swinburne University of Technology, Melbourne.
+5. Institute for Math & AI, Wuhan University, China
+6. School of Artificial Intelligence, Beijing University of
+Posts and Telecommunications, China
+7. Institute of Big Data, Fudan University, China
+8. Linkerbot (Beijing) Technology Co., Ltd, China
 
 <sup>*</sup> Corresponding authors: `runwayrwguan@hkust-gz.edu.cn`, `xionghui@hkust-gz.edu.cn`
 
